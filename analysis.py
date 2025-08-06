@@ -43,6 +43,7 @@ for column in data.select_dtypes(include=['object']).columns:
     unique_values = data[column].unique()
     print(f"Unique values in '{column}': {unique_values[:10]}... (Total: {len(unique_values)})")
 
+data.to_excel('Dataset/Cleaned_Digital_Sales_Customer_Data.xlsx', index=False)
 # Next steps in the analysis:
 # 1. Analyze the distribution of numerical columns.
 # 2. Explore relationships between categorical variables and numerical variables.
