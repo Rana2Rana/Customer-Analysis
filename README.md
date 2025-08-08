@@ -1,12 +1,12 @@
-# 📘 Revenue Trends Across Digital Learning Formats
+# Revenue Trends Across Digital Learning Formats
 
-## 📊 Project Title
+## Project Title
 **Revenue Trends Across Digital Learning Formats**  
 *An analysis of sales performance and customer behavior across digital educational products.*
 
 ---
 
-## 🧩 Dataset Overview
+## Dataset Overview
 This dataset captures transactional data for digital educational products sold through various platforms and channels.  
 It includes:
 
@@ -17,7 +17,7 @@ It includes:
 
 ---
 
-## 🎯 Business Goals
+## Business Goals
 1. **Track revenue trends** over time and across product categories.  
 2. **Evaluate marketing channel effectiveness** (Affiliate, Email, Facebook Ads).  
 3. **Identify top-performing products** by sales and quantity.  
@@ -26,11 +26,11 @@ It includes:
 
 ---
 
-## 📈 Key Measures Created
+## Key Measures Created
 
 | Measure Name            | Description                                          |
 |-------------------------|------------------------------------------------------|
-| `Total Revenue`         | Sum of all revenue                                   |
+| `Total Sales`         | Sum of all revenue                                   |
 | `Sales YTD`             | Year-to-date revenue                                 |
 | `Sales YTD vs LY`       | YTD revenue from the previous year                   |
 | `Sales YTD vs LY %`     | YoY growth percentage                                |
@@ -38,7 +38,7 @@ It includes:
 
 ---
 
-## 📊 Visualizations & Insights
+## Visualizations & Insights
 
 ### 1. Revenue by Category (Pie Chart)
 - Courses (19%) and Coaching Programs (17.9%) lead in revenue.
@@ -60,14 +60,14 @@ It includes:
 
 ---
 
-## 🌐 Tools & Technologies Used
+## Tools & Technologies Used
 - **Power BI**: Data modeling, DAX calculations, report visuals  
 - **DAX**: Custom measures for revenue comparison and time intelligence  
-- **Excel**: Initial data source preparation
+- **Python**: Initial data source preparation
 
 ---
 
-## 📚 Learnings & Skills Demonstrated
+## Learnings & Skills Demonstrated
 - Time-based analysis using **YTD**, **YoY**, and **last year comparison**  
 - **Dynamic visuals** for multi-dimensional data (category, time, channel)  
 - Effective use of **scatter plots** to visualize revenue vs. quantity trends  
@@ -75,7 +75,7 @@ It includes:
 
 ---
 
-## 🚀 Next Steps (Future Enhancements)
+## Next Steps (Future Enhancements)
 - Add drillthrough pages for detailed product-level insights  
 - Include customer lifetime value (CLV) and retention tracking  
 - Use slicers for gender, country, or product filtering for deeper segmentation
